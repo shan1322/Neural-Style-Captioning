@@ -29,4 +29,3 @@
 
 
 
-[Model for extracting features from inages and passing to caption_model](https://machiney.com/Extracting features)
