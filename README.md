@@ -1,6 +1,7 @@
 # Neural Style Captioning
 Playground for Captioning Images
-* Under Development for now data are tokenized and image model and text are ready
+![Input Image](test/example.jpg)
+![Output Captiion](test/example.jpg)
 ### Based on
 [https://arxiv.org/abs/1703.09137](https://arxiv.org/abs/1703.09137)
 ## Prerequisites
