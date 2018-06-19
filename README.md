@@ -4,6 +4,8 @@
 ![Output Captiion](output/output.jpg)
 ### Based on
 [https://arxiv.org/abs/1703.09137](https://arxiv.org/abs/1703.09137)
+### Dataset
+[https://forms.illinois.edu/sec/1713398](https://forms.illinois.edu/sec/1713398)
 ## Prerequisites
 * python3
 ### Installation
@@ -16,3 +18,6 @@
 ```sh
  run cap.ipynb
 ```
+### Links refferd
+[Tokenizing](https://keras.io/preprocessing/text/)
+[LSTM in caption model]https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py
