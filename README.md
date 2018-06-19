@@ -25,3 +25,8 @@
 
 
 [LSTM in caption model](https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py).
+
+
+
+
+[Model for extracting features from inages and passing to caption_model](https://machiney.com/Extracting features)
