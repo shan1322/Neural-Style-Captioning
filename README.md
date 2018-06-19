@@ -1,7 +1,7 @@
 # Neural Style Captioning
-Playground for Captioning Images
+*Playground for Captioning Images.
 ![Input Image](test/example.jpg)
-![Output Captiion](test/example.jpg)
+![Output Captiion](output/output.jpg)
 ### Based on
 [https://arxiv.org/abs/1703.09137](https://arxiv.org/abs/1703.09137)
 ## Prerequisites
