@@ -1,7 +1,13 @@
 # Neural Style Captioning
+
 *Playground for Captioning Images.
+
 ![Input Image](test/example.jpg)
+
+
 ![Output Captiion](output/output.jpg)
+
+
 ### Based on
 [https://arxiv.org/abs/1703.09137](https://arxiv.org/abs/1703.09137)
 ### Dataset
@@ -25,7 +31,4 @@
 
 
 [LSTM in caption model](https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py).
-### Error in small parts of prediction
-![Input Image](test/test.jpg)
-![Output Captiion](output/output1.jpg)
-* due to lack of training 
+
